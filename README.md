@@ -8,3 +8,6 @@
 ####  File Name: main_optim_256_pad.py
 | ![](group-gemm-performance-optim-256-pad/group-gemm-performance-optim-pow2-pad-gbps.png) | ![](group-gemm-performance-optim-256-pad/group-gemm-performance-optim-pow2-pad-gflops.png) | 
 |---|---|
+# Benchmark Performed on 4090 GPU 
+![](4090GPU.png)
+
