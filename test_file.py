@@ -3,4 +3,4 @@ import torch
 from random import randint
 
 x = randint(50,200)
-y = randint(800,850)
+y = randint(800,1000)
