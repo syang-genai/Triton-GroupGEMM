@@ -4,4 +4,4 @@ from random import randint
 x = randint(50,200)
 y = randint(800,1000)
 x = randint(50,200)
-y = randint(800,1200)
+y = randint(800,1000)
