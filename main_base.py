@@ -308,8 +308,7 @@ def main():
     
     
     # performance benchmark
-    benchmark_batches.run(show_plots=True, print_data=True, save_path="group-gemm-performance-base")
-
+    benchmark_batches.run(show_plots=False, print_data=False, save_path="group-gemm-performance-base")
 
 if __name__=="__main__":
     main()
